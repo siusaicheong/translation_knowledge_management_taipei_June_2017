@@ -9,7 +9,7 @@ Thank you for visiting this web site. I ran two workshops on the management of t
     - Key Issues: the Concept of "Translation Informatics"
 * Tools for Translation Knowledge Management
 
-Download the presentation slides [here](www.yahoo.com.hk).
+Download the presentation slides [here](translation_knowledge_management_part1.pdf).
 
 ## Workshop 2: Translation Knowledge Management 2
 * Demonstration: Development of a Simple Translation Knowledge Database
@@ -20,8 +20,8 @@ Download the presentation slides [here](www.yahoo.com.hk).
     - Multilingual Medical Communicator (by Sai-yan Siu)
 * The Future of Translation Knowledge Management: Opportunities and Challenges
 
-Download the presentation slides [here](www.yahoo.com.hk).
+Download the presentation slides [here](translation_knowledge_management_part2.pdf).
 
 ## Contact Me
-If you have any questions about the workshops, please contact me at [siusaicheong@gmail.com](mailto:siusaicheong@gmail.com). For more information about my research projects, please visit [saicheong.com](saicheong.com).
+If you have any questions about the workshops, please contact me at [siusaicheong@gmail.com](mailto:siusaicheong@gmail.com). For more information about my research projects, please visit [saicheong.com](https://saicheong.com).
 
