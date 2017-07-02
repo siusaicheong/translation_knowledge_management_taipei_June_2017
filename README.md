@@ -1,6 +1,4 @@
-# Workshops on Translation Knowledge Management 
-
-(Taipei, 26-27 June 2017)
+# Workshops on Translation Knowledge Management \(Taipei, 26-27 June 2017)
 
 Sai-cheong Siu
 
@@ -8,8 +6,8 @@ Welcome to this website. I ran two workshops on the management of translation kn
 
 ## Workshop 1: Translation Knowledge Management 1
 * Introduction to Translation Knowledge Management
-... *Significance 
-... *Key Issues: the Concept of "Translation Informatics"
+- Significance 
+- Key Issues: the Concept of "Translation Informatics"
 * Tools for Translation Knowledge Management
 
 Download the presentation slides [here](www.yahoo.com.hk).
@@ -17,10 +15,10 @@ Download the presentation slides [here](www.yahoo.com.hk).
 ## Workshop 2: Translation Knowledge Management 2
 * Demonstration: Development of a Simple Translation Knowledge Database
 * Sample Systems / Prototypes
-... *HSMC Business Translation Index
-... *TranXearch: A Search Engine for Translators
-... *Multilingual Communication Tools for Ethnic Minorities in Hong Kong
-... *Multilingual Medical Communicator (by Sai-yan Siu)
+- HSMC Business Translation Index
+- TranXearch: A Search Engine for Translators
+- Multilingual Communication Tools for Ethnic Minorities in Hong Kong
+- Multilingual Medical Communicator (by Sai-yan Siu)
 * The Future of Translation Knowledge Management: Opportunities and Challenges
 
 Download the presentation slides [here](www.yahoo.com.hk).
