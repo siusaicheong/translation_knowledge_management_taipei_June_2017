@@ -1,7 +1,7 @@
 # Workshops on Translation Knowledge Management (Taipei, 26-27 June 2017)
 Sai-cheong Siu
 
-Thank you for visiting this web site. I ran two workshops on the management of translation knowledge from 26 to 27 June 2017, and this webpage provides you with more information about them.
+Thank you for visiting this web site. I ran two workshops on the management of translation knowledge (翻譯的資訊化管理及知識點的設計) from 26 to 27 June 2017, and this webpage provides you with more information about them.
 
 ## Workshop 1: Translation Knowledge Management 1
 * Introduction to Translation Knowledge Management
@@ -13,7 +13,7 @@ Download the presentation slides [here](translation_knowledge_management_part1.p
 
 ## Workshop 2: Translation Knowledge Management 2
 * Demonstration: Development of a Simple Translation Knowledge Database
-    - Sample files are available [here](https://github.com/siusaicheong/toolbuilder_demo).
+    - Sample files are available [here](https://siusaicheong.github.io/toolbuilder_demo/).
 * Sample Systems / Prototypes
     - HSMC Business Translation Index
     - TranXearch: A Search Engine for Translators
