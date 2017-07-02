@@ -1,8 +1,7 @@
-# Workshops on Translation Knowledge Management 
-## Taipei, 26-27 June 2017
+# Workshops on Translation Knowledge Management (Taipei, 26-27 June 2017)
 Sai-cheong Siu
 
-Welcome to this website. I ran two workshops on the management of translation knowledge from 26 to 27 June 2017. This web page provides you with more information about them.
+Thank you for visiting this web site. I ran two workshops on the management of translation knowledge from 26 to 27 June 2017, and this webpage provides you with more information about them.
 
 ## Workshop 1: Translation Knowledge Management 1
 * Introduction to Translation Knowledge Management
