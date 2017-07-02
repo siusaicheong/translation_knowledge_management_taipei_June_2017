@@ -1,7 +1,7 @@
 # Workshops on Translation Knowledge Management (Taipei, 26-27 June 2017)
 Sai-cheong Siu
 
-Thank you for visiting this web site. I ran two workshops on the management of translation knowledge (翻譯的資訊化管理及知識點的設計) from 26 to 27 June 2017, and this webpage provides you with more information about them. I would like to take this opportunity to express my gratitude to Professor Yang Cheng-shu and the International Medical Translators and Interpreters Association (IMTIA) for organising the workshops.
+Thank you for visiting this website. I ran two workshops on the management of translation knowledge (翻譯的資訊化管理及知識點的設計) from 26 to 27 June 2017, and this web page provides you with more information about them. I would like to take this opportunity to express my gratitude to Professor Yang Cheng-shu and the International Medical Translators and Interpreters Association (IMTIA) for organising the workshops.
 
 ## Workshop 1: Translation Knowledge Management 1
 * Introduction to Translation Knowledge Management
