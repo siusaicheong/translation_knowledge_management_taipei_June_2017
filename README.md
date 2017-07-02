@@ -23,5 +23,5 @@ Download the presentation slides [here](www.yahoo.com.hk).
 Download the presentation slides [here](www.yahoo.com.hk).
 
 ## Contact Me
-If you have any questions about the workshops, please contact me at [siusaicheong@gmail.com](siusaicheong@gmail.com). For more information about my research projects, please visit [saicheong.com](saicheong.com).
+If you have any questions about the workshops, please contact me at [mailto:siusaicheong@gmail.com](siusaicheong@gmail.com). For more information about my research projects, please visit [saicheong.com](saicheong.com).
 
