@@ -13,6 +13,7 @@ Download the presentation slides [here](translation_knowledge_management_part1.p
 
 ## Workshop 2: Translation Knowledge Management 2
 * Demonstration: Development of a Simple Translation Knowledge Database
+    - Sample files are available [here](https://github.com/siusaicheong/toolbuilder_demo).
 * Sample Systems / Prototypes
     - HSMC Business Translation Index
     - TranXearch: A Search Engine for Translators
